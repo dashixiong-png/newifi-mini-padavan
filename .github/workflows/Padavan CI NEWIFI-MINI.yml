@@ -1,6 +1,6 @@
 # # # # # # # # # # #
 #  自动构建 NEWIFI-MINI
-#     花妆男
+#  代码来自：https://github.com/HuaZhuangNan/actions-build-padavan-openwrt
 # # # # # # # # # # #
 name: Padavan CI NEWIFI-MINI
 on:
